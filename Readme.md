@@ -1,3 +1,3 @@
 # Feed
 
-Creating an app that allows individuals to oder foodstuffs at thier conveniences.
+Creating an app that allows individuals to order foodstuffs at thier conveniences.
